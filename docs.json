@@ -243,6 +243,12 @@
                   "archive-kpw/note/plugins/WorldguardPreventLwc",
                   "archive-kpw/note/plugins/WorldSpawn"
                 ]
+              },
+              {
+                "group": "Memo",
+                "pages": [
+                  "archive-kpw/note/memo/mod-s2/index"
+                ]
               }
             ]
           }
